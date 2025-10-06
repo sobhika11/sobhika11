@@ -2,16 +2,18 @@
   <img src="https://raw.githubusercontent.com/sobhika11/images/main/banner_img.jpg" alt="Banner" width="100%" style="display:block; margin:0; padding:0;" />
 </p>
 
-<pre>
-                                              
-              <strong>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
-        Currently, I'm focusing on Full-Stack Development ,data structures & algorithms, and competitive programming.
-                striving to be a stronger version of myself in coding, one line at a time.
+<p align="center">
+  <strong >
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.<br>
+        Currently, I'm focusing on Full-Stack Development, data structures & algorithms, and competitive programming.<br>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;striving to be a stronger version of myself in coding, one line at a time.<br><br>
+  
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy solving problems through code and learning something new every day.<br>
+My short-term goal is to strengthen my skills in DSA and backend development using Express and MongoDB.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</p>
 
-             I enjoy solving problems through code and learning something new every day.
-       My short-term goal is to strengthen my skills in DSA and backend development using Expressand MongoDB.
-            In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</string>  
-</pre>
+</strong>
+</p><br>
 
 
 ## Professional Highlights
