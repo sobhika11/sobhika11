@@ -1,5 +1,9 @@
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://raw.githubusercontent.com/sobhika11/images/main/banner_img.jpg" alt="Banner" width="100%" style="display:block; margin:0; padding:0;" />
+</p>
+
 <pre>
-                                              <h1 align=center>SOBHIKA</h1> 
+                                              
               <strong>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
         Currently, I'm focusing on Full-Stack Development ,data structures & algorithms, and competitive programming.
                 striving to be a stronger version of myself in coding, one line at a time.
@@ -88,6 +92,11 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 
 ---
 ## 📊 Codolio Heatmap
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sobhika11/images/main/codolio_heatmap.png" alt="Codolio Heatmap" width="100%" />
+</p>
+
+
 
 ## Connect with me
 
