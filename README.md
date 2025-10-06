@@ -1,6 +1,6 @@
 
 <pre>
-                                              <b>Hi, I'm Sobhika.</b>
+                                              <h1 align=center>SOBHIKA</h1> 
               <strong>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
         Currently, I'm focusing on full-stack development ,data structures & algorithms, and competitive programming.
                 striving to be a stronger version of myself in coding, one line at a time.
