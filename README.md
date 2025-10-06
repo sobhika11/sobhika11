@@ -1,7 +1,4 @@
-<p align="center" style="margin:0; padding:0;">
-  <img src="https://raw.githubusercontent.com/sobhika11/images/main/banner_img.jpg" alt="Banner" width="100%" style="display:block; margin:0; padding:0;" />
-</p>
-
+<h2 align="center">SOBHIKA P M</h2>
 <p align="center">
   <strong >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.<br>
