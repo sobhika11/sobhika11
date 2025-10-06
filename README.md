@@ -1,13 +1,13 @@
 
 <pre>
                                               <b>Hi, I'm Sobhika.</b>
-              <big>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
+              <strong>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
         Currently, I'm focusing on full-stack development ,data structures & algorithms, and competitive programming.
                 striving to be a stronger version of myself in coding, one line at a time.
 
              I enjoy solving problems through code and learning something new every day.
        My short-term goal is to strengthen my skills in DSA and backend development using Expressand MongoDB.
-            In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</big>  
+            In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</string>  
 </pre>
 
 
@@ -51,13 +51,31 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Sobhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Sobhika's GitHub stats" height="180px"/>
+  </a>
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhika11&theme=default&hide_border=true&background=ffffff&ring=0078D7&fire=FF6E40&currStreakLabel=0078D7" alt="GitHub Streak" height="180px"/>
+  </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true&bg_color=ffffff&color=0078D7&line=0078D7&point=0078D7" alt="Contribution Graph" />
+  </a>
+</p>
 
 ---
+
 
 ## connect with me
 
