@@ -1,13 +1,13 @@
 
 <pre>
-                                              <b>Hi, I'm Sobhika.
-               I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
+                                              <b>Hi, I'm Sobhika.</b>
+              <big>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
         Currently, I'm focusing on full-stack development ,data structures & algorithms, and competitive programming.
                 striving to be a stronger version of myself in coding, one line at a time.
 
              I enjoy solving problems through code and learning something new every day.
        My short-term goal is to strengthen my skills in DSA and backend development using Expressand MongoDB.
-            In the long run, I aspire to become a skilled software developer capable of creating impactful projects. </b>
+            In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</big>  
 </pre>
 
 
