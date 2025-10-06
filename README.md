@@ -1,8 +1,7 @@
-
 <pre>
                                               <h1 align=center>SOBHIKA</h1> 
               <strong>I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.
-        Currently, I'm focusing on full-stack development ,data structures & algorithms, and competitive programming.
+        Currently, I'm focusing on Full-Stack Development ,data structures & algorithms, and competitive programming.
                 striving to be a stronger version of myself in coding, one line at a time.
 
              I enjoy solving problems through code and learning something new every day.
@@ -77,7 +76,7 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 ---
 
 
-## connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-p-m-9316192a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:-sobhika1105@gmail.com)
