@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sobhika11/images/main/Bannerimage.jpg" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0:0078D7,100:00C6FF&text=SOBHIKA%20P%20M&animation=fadeIn&section=header"/>
 </p>
 <p align="center">
   <strong >
