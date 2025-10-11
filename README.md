@@ -1,4 +1,6 @@
-<h2 align="center">SOBHIKA P M</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sobhika11/images/main/Bannerimage.jpg" alt="Banner" width="100%" />
+</p>
 <p align="center">
   <strong >
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.<br>
