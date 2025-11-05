@@ -24,7 +24,7 @@ My short-term goal is to strengthen my skills in DSA and backend development usi
 ## Currently Learning
 - Advanced **DSA topics** (dynamic programming)  
 - **Full-stack projects** using Node.js, Express, MongoDB  
-- Improving **problem-solving skills** on competitive programming platforms  
+- Improving **problem-solving skills** on competitive programming platforms
 
 And apart from coding,i love watching movies& series exploring new lifestyles.  
 ## Skills
