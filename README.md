@@ -93,9 +93,8 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 ---
 ## 📊 Codolio Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sobhika11/images/main/codolio_heatmap.png" alt="Codolio Heatmap" width="100%" />
+  <img src="https://raw.githubusercontent.com/sobhika11/images/main/Screenshot%202025-11-09%20230945.png" alt="Codolio Screenshot" width="100%" />
 </p>
-
 
 
 ## Connect with me
