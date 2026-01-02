@@ -66,7 +66,6 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 | [**Fitness-Tracker**](https://github.com/sobhika11/Fitness-Tracker) | Enables users to track fitness and receive region-based diet plans; includes streak tracking and health monitoring. |
 |  [**TODOAPP-**](https://github.com/sobhika11/TODOAPP-) | Simple and efficient app to manage daily tasks and to-do lists. |
 | [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Desktop app built in Java with Maven, helping users track expenses and categorize transactions (Food, Travel, etc). |
-| [**E-Commerce-**](https://github.com/sobhika11/E-Commerce-) | Full-stack e-commerce web app with user authentication, product/cart/order management, and REST APIs (Spring Boot, JPA/Hibernate, MySQL). |
 
 
 ## 📊 GitHub Stats & Activity
