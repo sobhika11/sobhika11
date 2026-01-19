@@ -67,11 +67,31 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 |  [**TODOAPP-**](https://github.com/sobhika11/TODOAPP-) | Simple and efficient app to manage daily tasks and to-do lists. |
 | [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Desktop app built in Java with Maven, helping users track expenses and categorize transactions (Food, Travel, etc). |
 
-## 📊 GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&hide=languages)
-](https://github-readme-stats.vercel.app/api?username=sobhika11&theme=default&show_icons=true&hide_border=true&count_private=true)
+## GitHub Stats & Activity
+
+<p align="center">
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Sobhika's GitHub stats" height="181px"/>
+  </a>
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhika11&theme=default&hide_border=true&background=ffffff&ring=0078D7&fire=FF6E40&currStreakLabel=0078D7" alt="GitHub Streak" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sobhika11">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true&bg_color=ffffff&color=0078D7&line=0078D7&point=0078D7" alt="Contribution Graph" />
+  </a>
+</p>
+
 ---
-## 📊 Codolio Heatmap
+## Codolio Heatmap
 <p align="center">
   <img src="https://raw.githubusercontent.com/sobhika11/images/main/Screenshot%202025-11-09%20230945.png" alt="Codolio Screenshot" width="100%" />
 </p>
