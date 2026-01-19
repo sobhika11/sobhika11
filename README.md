@@ -73,9 +73,7 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
   <a href="https://github.com/sobhika11">
     <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Sobhika's GitHub stats" height="181px"/>
   </a>
-  <a href="https://github.com/sobhika11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhika11&theme=default&hide_border=true&background=ffffff&ring=0078D7&fire=FF6E40&currStreakLabel=0078D7" alt="GitHub Streak" height="180px"/>
-  </a>
+  
 </p>
 
 <p align="center">
