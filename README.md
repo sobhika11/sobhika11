@@ -67,8 +67,9 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 |  [**TODOAPP-**](https://github.com/sobhika11/TODOAPP-) | Simple and efficient app to manage daily tasks and to-do lists. |
 | [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Desktop app built in Java with Maven, helping users track expenses and categorize transactions (Food, Travel, etc). |
 
-
-
+## 📊 GitHub Stats
+[![](https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&hide=languages)
+](https://github-readme-stats.vercel.app/api?username=sobhika11&theme=default&show_icons=true&hide_border=true&count_private=true)
 ---
 ## 📊 Codolio Heatmap
 <p align="center">
