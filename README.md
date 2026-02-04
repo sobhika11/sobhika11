@@ -18,7 +18,7 @@ My short-term goal is to strengthen my skills in DSA and backend development usi
 
 ## Professional Highlights
 - Solved **1200+ problems** on various competitive programming platforms  
-- Strong foundation in **DSA concepts**, including Arrays, Heaps, trees, and graphs  
+- Strong foundation in DSA including graphs, heaps, trees, binary search, and two-pointer techniques.
 - Working knowledge of **full-stack development** projects
 
 ## Currently Learning
@@ -62,10 +62,9 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 
 | Project | Description |
 |---------|-------------|
-| [**petcare**](https://github.com/sobhika11/petcare) | A website designed for the care and grooming of cats and dogs, with features to book vet appointments at nearby hospitals. |
-| [**Fitness-Tracker**](https://github.com/sobhika11/Fitness-Tracker) | Enables users to track fitness and receive region-based diet plans; includes streak tracking and health monitoring. |
-|  [**TODOAPP-**](https://github.com/sobhika11/TODOAPP-) | Simple and efficient app to manage daily tasks and to-do lists. |
-| [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Desktop app built in Java with Maven, helping users track expenses and categorize transactions (Food, Travel, etc). |
+| [**petcare**](https://github.com/sobhika11/petcare) | Full-stack pet care platform built with Node.js, Express, and MongoDB enabling users to book vet appointments, manage pet profiles, and track medical history. |
+| [**Fitness-Tracker**](https://github.com/sobhika11/Fitness-Tracker) | Full-stack fitness tracking app using Node.js and MongoDB with user authentication, activity logging, streak tracking, and personalized diet recommendations. |
+| [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Java-based desktop expense tracker built with Maven that allows users to log transactions, categorize expenses, generate monthly summaries, and visualize spending trends. |
 
 ## GitHub Stats & Activity
 
