@@ -17,7 +17,7 @@ My short-term goal is to strengthen my skills in DSA and backend development usi
 
 
 ## Professional Highlights
-- Solved **1200+ problems** on various competitive programming platforms  
+- Solved **1300+ problems** on various competitive programming platforms  
 - Strong foundation in DSA including graphs, heaps, trees, binary search, and two-pointer techniques.
 - Working knowledge of **full-stack development** projects
 
