@@ -17,7 +17,7 @@ My short-term goal is to strengthen my skills in DSA and backend development usi
 
 
 ## Professional Highlights
-- Solved **1300+ problems** on various competitive programming platforms  
+- Solved **1350+ problems** on various competitive programming platforms  
 - Strong foundation in DSA including graphs, heaps, trees, binary search, and two-pointer techniques.
 - Working knowledge of **full-stack development** projects
 
@@ -60,15 +60,17 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
     </td>
   </tr>
 </table>
----
+
 ## Projects
 
 | Project | Description |
+| Project | Description |
 |---------|-------------|
+| [**Phishing-Detection-System**](https://github.com/sobhika11/Phising-detection-System) | Graph-based phishing detection system built using FastAPI, Neo4j, Node.js, and MongoDB to analyze malicious URLs, detect suspicious hosting relationships, perform risk scoring, and visualize coordinated phishing activity. |
+| [**TODOAPP**](https://github.com/sobhika11/TODOAPP-) | Task management application with features like task creation, status tracking, priority management, and responsive UI for efficient productivity management built using java with maven |
 | [**petcare**](https://github.com/sobhika11/petcare) | Full-stack pet care platform built with Node.js, Express, and MongoDB enabling users to book vet appointments, manage pet profiles, and track medical history. |
 | [**Fitness-Tracker**](https://github.com/sobhika11/Fitness-Tracker) | Full-stack fitness tracking app using Node.js and MongoDB with user authentication, activity logging, streak tracking, and personalized diet recommendations. |
 | [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Java-based desktop expense tracker built with Maven that allows users to log transactions, categorize expenses, generate monthly summaries, and visualize spending trends. |
-
 ## GitHub Stats & Activity
 
 <p align="center">
