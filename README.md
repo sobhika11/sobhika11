@@ -1,32 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sobhika11/images/main/banner.jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sobhika11/images/main/banner.jpg" 
+       alt="Banner" width="100%" />
 </p>
 
 <p align="center">
-  <strong >
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a Computer Science and Business System student who loves learning by building and exploring new technologies.<br>
-        Currently, I'm focusing on Full-Stack Development, data structures & algorithms, and competitive programming.<br>
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;striving to be a stronger version of myself in coding, one line at a time.<br><br>
-  
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy solving problems through code and learning something new every day.<br>
-My short-term goal is to strengthen my skills in DSA and backend development using Express and MongoDB.<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the long run, I aspire to become a skilled software developer capable of creating impactful projects.</p>
+  <strong>
+    I'm a Computer Science and Business Systems student who loves learning by building and exploring new technologies.<br>
+    Currently focusing on Full-Stack Development, Data Structures & Algorithms, and Competitive Programming.<br>
+    Striving to become a stronger version of myself in coding, one line at a time.
+  </strong>
+</p>
 
-</strong>
-</p><br>
-
-
-## Professional Highlights
-- Solved **1350+ problems** on various competitive programming platforms  
-- Strong foundation in DSA including graphs, heaps, trees, binary search, and two-pointer techniques.
-- Working knowledge of **full-stack development** projects
-
-## Currently Learning
-- Advanced **DSA topics** (dynamic programming)  
-- **Full-stack projects** using Node.js, Express, MongoDB  
-- Improving **problem-solving skills** on competitive programming platforms
-
-And apart from coding,i love watching movies& series exploring new lifestyles.  
+<p align="center">
+  I enjoy solving problems through code and learning something new every day.<br>
+  My short-term goal is to strengthen my skills in DSA and backend development using Express and MongoDB.<br>
+  In the long run, I aspire to become a skilled software developer capable of creating impactful projects.
+</p> 
 ## Skills
 
 <table>
@@ -64,7 +53,6 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 ## Projects
 
 | Project | Description |
-| Project | Description |
 |---------|-------------|
 | [**Phishing-Detection-System**](https://github.com/sobhika11/Phising-detection-System) | Graph-based phishing detection system built using FastAPI, Neo4j, Node.js, and MongoDB to analyze malicious URLs, detect suspicious hosting relationships, perform risk scoring, and visualize coordinated phishing activity. |
 | [**TODOAPP**](https://github.com/sobhika11/TODOAPP-) | Task management application with features like task creation, status tracking, priority management, and responsive UI for efficient productivity management built using java with maven |
@@ -74,24 +62,16 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 ## GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/sobhika11">
-    <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&icon_color=0078D7&text_color=333333" alt="Sobhika's GitHub stats" height="181px"/>
-  </a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sobhika11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="Top Languages" height="180px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/sobhika11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true&bg_color=ffffff&color=0078D7&line=0078D7&point=0078D7" alt="Contribution Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true" alt="Contribution Graph" />
 </p>
-
 ---
 ## Codolio Heatmap
 <p align="center">
@@ -102,6 +82,6 @@ And apart from coding,i love watching movies& series exploring new lifestyles.
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhika-p-m-9316192a5/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:-sobhika1105@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobhika1105@gmail.com)
 
 
