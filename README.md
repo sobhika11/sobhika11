@@ -55,29 +55,23 @@
 | Project | Description |
 |---------|-------------|
 | [**Phishing-Detection-System**](https://github.com/sobhika11/Phising-detection-System) | Graph-based phishing detection system built using FastAPI, Neo4j, Node.js, and MongoDB to analyze malicious URLs, detect suspicious hosting relationships, perform risk scoring, and visualize coordinated phishing activity. |
-| [**TODOAPP**](https://github.com/sobhika11/TODOAPP-) | Task management application with features like task creation, status tracking, priority management, and responsive UI for efficient productivity management built using java with maven |
 | [**petcare**](https://github.com/sobhika11/petcare) | Full-stack pet care platform built with Node.js, Express, and MongoDB enabling users to book vet appointments, manage pet profiles, and track medical history. |
+| [**TODOAPP**](https://github.com/sobhika11/TODOAPP-) | Task management application with features like task creation, status tracking, priority management, and responsive UI for efficient productivity management built using java with maven |
 | [**Fitness-Tracker**](https://github.com/sobhika11/Fitness-Tracker) | Full-stack fitness tracking app using Node.js and MongoDB with user authentication, activity logging, streak tracking, and personalized diet recommendations. |
 | [**Expense-Tracker**](https://github.com/sobhika11/Expense-Tracker) | Java-based desktop expense tracker built with Maven that allows users to log transactions, categorize expenses, generate monthly summaries, and visualize spending trends. |
 ## GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sobhika11&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sobhika11&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhika11&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sobhika11&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhika11&theme=minimal&hide_border=true&cache=true" alt="Contribution Graph" />
 </p>
----
-## Codolio Heatmap
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sobhika11/images/main/Screenshot%202025-11-09%20230945.png" alt="Codolio Screenshot" width="100%" />
-</p>
-
 
 ## Connect with me
 
