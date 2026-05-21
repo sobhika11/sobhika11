@@ -16,8 +16,8 @@
   My short-term goal is to strengthen my skills in DSA and backend development using Express and MongoDB.<br>
   In the long run, I aspire to become a skilled software developer capable of creating impactful projects.
 </p> 
-## Skills
 
+## Skills
 <table>
   <tr>
     <td>
