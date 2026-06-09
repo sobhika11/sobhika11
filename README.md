@@ -13,7 +13,7 @@
 
 <p align="center">
   I enjoy solving problems through code and learning something new every day.<br>
-  My short-term goal is to strengthen my skills in DSA and backend development using Express and MongoDB.<br>
+  My short-term goal is to strengthen my skills in DSA and Full Stack Development Tech stacks.<br>
   In the long run, I aspire to become a skilled software developer capable of creating impactful projects.
 </p> 
 
